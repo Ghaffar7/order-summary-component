@@ -51,7 +51,7 @@ h2 {
 
 img {
     width: 400px;
-    border-radius: 20px 20px 0 0;
+    border-radius: 15px 15px 0 0;
 }
 
 .details {
@@ -61,7 +61,7 @@ img {
     flex-direction: column;
     justify-content: space-around;
     padding: 0 45px;
-    border-radius: 10px;
+    border-radius: 0 0 15px 15px;
 }
 
 .desc {
